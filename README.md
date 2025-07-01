@@ -26,7 +26,7 @@ The **goal** is to predict employee absenteeism and identify behavioral patterns
 ## 🔎 Dataset
 
 - **Nombre**: *Employee Absenteeism at Work*
-- **Fuente**: Público. Disponible en [UCI Machine Learning Repository][https://archive.ics.uci.edu/dataset/445/absenteeism+at+work])
+- **Fuente**: Público. Disponible en [UCI Machine Learning Repository]([https://archive.ics.uci.edu/dataset/445/absenteeism+at+work])
 - **Descripción**: El conjunto de datos contiene 740 registros de empleados de una empresa de servicios sanitarios en Brasil. Incluye variables como edad, nivel educativo, transporte, motivo de ausencia, tiempo de ausencia en horas, entre otras.
 
 The dataset contains 740 records from employees of a health service company in Brazil. It includes variables such as age, education level, transport type, reason for absence, and time absent (in hours), among others.
