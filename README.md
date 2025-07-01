@@ -1,8 +1,8 @@
 # ML_workplace-absence-alert
 Proyectos ML
-# Absence Alert Workplace 🚨
+#  🎯 Workplace Absence Alert 
 
-## Problema / Problem
+## 📄 Problema / Problem
 
 **Análisis y predicción del absentismo laboral** utilizando el dataset *Employee Absenteeism at Work*, que contiene información sobre empleados de una empresa en Brasil.
 
@@ -24,7 +24,7 @@ The **goal** is to predict employee absenteeism and identify behavioral patterns
 
 ---
 
-## 📂 Dataset
+## 🔎 Dataset
 
 - **Nombre**: *Employee Absenteeism at Work*
 - **Fuente**: Público. Disponible en [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/469/absenteeism+at+work)
@@ -34,11 +34,13 @@ The dataset contains 740 records from employees of a health service company in B
 
 ---
 
-## 🛠️ Solución adoptada / Adopted solution
+## 📈 Solución adoptada / Adopted solution
 
 Se realizó un análisis exploratorio de los datos (EDA) para comprender las relaciones entre las variables y su influencia en el absentismo. Luego se construyeron modelos de regresión (Linear Regression, KNN, Random Forest, XGBoost y LightGBM) para predecir el tiempo de ausencia en horas.
 
 La evaluación de los modelos se hizo utilizando validación cruzada y métricas como MAE, RMSE y R². Se probaron tanto versiones con como sin codificación one-hot para analizar su impacto en el rendimiento de los modelos.
+
+---
 
 An exploratory data analysis (EDA) was conducted to understand the relationships between variables and their influence on absenteeism. Regression models (Linear Regression, KNN, Random Forest, XGBoost, and LightGBM) were built to predict absence duration in hours.
 
