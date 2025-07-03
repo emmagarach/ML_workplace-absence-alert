@@ -73,8 +73,6 @@ La estructura del repositorio está organizada para facilitar la **reproducibili
 - `presentation.pdf`: soporte visual para la **presentación de resultados**.
 - `README.md`: resumen del proyecto con **descripción, estructura y pasos de uso**.
 
-Esta estructura permite mantener **organización, escalabilidad y claridad** en el desarrollo.
-
 ---
 
 The repository structure is organized to ensure **clarity and reproducibility**:
@@ -89,4 +87,3 @@ The repository structure is organized to ensure **clarity and reproducibility**:
 - `presentation.pdf`: visual support for **results presentation**.
 - `README.md`: project summary with **description, structure, and usage instructions**.
 
-This structure ensures **organization, scalability, and clarity** throughout the project.
