@@ -45,7 +45,9 @@ La evaluación de los modelos se realizó utilizando las siguientes métricas de
 - **Precision:** porcentaje de predicciones de "ausente" que realmente lo fueron.
 - **Recall:** porcentaje de empleados ausentes correctamente identificados.
 
+
 El objetivo es que el modelo permita a la empresa anticipar **posibles ausencias significativas**, mejorando la planificación de recursos y la gestión operativa con una interpretación práctica y accionable de los datos.
+
 ---
 
 An exploratory data analysis (EDA) was conducted to understand the relationships between variables and their influence on absenteeism. Then, classification models (Logistic Regression, KNN, Random Forest, XGBoost, and LightGBM) were built to predict the number of hours of absence.
